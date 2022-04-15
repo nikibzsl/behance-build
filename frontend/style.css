@@ -1,0 +1,36 @@
+body {
+
+background-color: #B675EB;
+
+
+}
+
+.grid-container-first {
+
+    display: flex;
+
+    flex-direction: row;
+    width: 90%;
+    height: 90%;
+
+    background-color: #6357FF;  
+
+    
+}
+
+.first-item-1 {
+
+    display: inline-block;
+    
+
+}
+
+#first-pic{
+
+    display: flex;
+    object-fit: contain;
+    width: 70%;
+    height: 70%;
+
+    
+}
